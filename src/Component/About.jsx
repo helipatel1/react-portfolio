@@ -5,20 +5,20 @@ const About = () => {
     const Links = [
         {
             id: 1,
-            list: "Proactively liaised with the design team and project team to ensure efficient and timly delivery of significant projects."
+            list: " Developed and maintained front-end features using React, contributing to a 20% increase in user engagement."
         },
         {
             id: 2,
-            list: "Designed and Developed web application using javascript frameworks ReactJs and AngularJs to increase tarrget audience engagement by 12%."
+            list: "Collaborated with cross-functional teams to design and implement new features, ensuring a seamless user experience."
         },
         {
             id: 3,
-            list: "Created accessible,responsive,and functional user interfaces to allow visitors on any device to have the same perfect user expeirence."
+            list: " Conducted code reviews, identified improvements, and implemented best practices to enhance code quality."
         },
-        // {
-        //     id:2,
-        //     list: "Designed and Developed web application using javascript frameworks ReactJs and AngularJs to increase tarrget audience engagement by 12%."
-        // },
+        {
+            id: 4,
+            list: "Worked with RESTful APIs to integrate front-end functionalities with back-end services."
+        },
     ]
     return (
         <div

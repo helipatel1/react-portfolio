@@ -15,9 +15,9 @@ const Contact = () => {
           <p className="py-6">DISCUSS A JOB OPPORTUNITY OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</p>
         </div>
         <div className="flex flex-col text-lg justify-center items-center">
-            <p >+1 (902) 978-2453</p>
-            <p className="my-1">heli171998@gmail.com</p>
-            <SocialLinks />
+          <p >+1 (902) 978-2453</p>
+          <p className="my-2">heli171998@gmail.com</p>
+          <SocialLinks />
           {/* <form
             action="https://getform.io/f/31313319-e886-40c5-af98-21b4317d9014"
             method="POST"

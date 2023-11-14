@@ -1,4 +1,4 @@
-import React, { useState,useEffect  } from "react";
+import React, { useState, useEffect } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import NavLinks from "./NavLinks";
 
@@ -30,26 +30,24 @@ const NavBar = () => {
       id: 2,
       link: "about",
     },
-    // {
-    //   id: 3,
-    //   link: "portfolio",
-    // },
     {
       id: 3,
-      link: "experience",
+      link: "portfolio",
     },
     {
       id: 4,
+      link: "experience",
+    },
+    {
+      id: 5,
       link: "contact",
     },
   ];
 
   return (
-    <div 
-    // className=` fixed top-0 transition-transform ${visible ? "" : "-translate-y-full"}`}
-    className={`flex justify-between items-center h-20 px-4 bg-black text-white fixed w-full top-0 transition-transform ${
-        visible ? 'translate-y-0' : '-translate-y-full'
-      }`}>
+    <div
+      className={`flex justify-between items-center h-20 px-4 bg-black text-white fixed w-full top-0 transition-transform ${visible ? 'translate-y-0' : '-translate-y-full'
+        }`}>
       <div>
         <h1 className="text-5xl font-signature ml-2">Heli</h1>
       </div>
