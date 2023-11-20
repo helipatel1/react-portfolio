@@ -12,7 +12,7 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact Me
           </p>
-          <p className="py-6">DISCUSS A JOB OPPORTUNITY OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</p>
+          <p className="py-6">Discuss a job opportunity or just want to say HI? My Inbox is open for all.</p>
         </div>
         <div className="flex flex-col text-lg justify-center items-center">
           <p >+1 (902) 978-2453</p>

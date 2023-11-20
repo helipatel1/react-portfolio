@@ -5,19 +5,23 @@ const About = () => {
     const Links = [
         {
             id: 1,
-            list: " Developed and maintained front-end features using React, contributing to a 20% increase in user engagement."
+            list: "Experienced web developer with a passion for creating user-friendly websites. Specializing in dynamic and responsive web applications using React and Angular for three years."
         },
         {
             id: 2,
-            list: "Collaborated with cross-functional teams to design and implement new features, ensuring a seamless user experience."
+            list: "I'm committed to delivering top-notch code and creating seamless user experiences. Thriving in collaboration, I turn innovative ideas into robust, feature-rich applications."
         },
         {
             id: 3,
-            list: " Conducted code reviews, identified improvements, and implemented best practices to enhance code quality."
+            list: "I excel in adapting to tech trends, implementing complex features, optimizing performance, and ensuring pixel-perfect designs with detail attention."
         },
         {
             id: 4,
-            list: "Worked with RESTful APIs to integrate front-end functionalities with back-end services."
+            list: "I specialize in full-stack development with Node.js, Firebase, and MySQL, complemented by expertise in version control, testing, and agile practices."
+        },
+        {
+            id: 5,
+            list: "I'm a continuous learner in the developer community, focused on impactful projects, not just writing code."
         },
     ]
     return (

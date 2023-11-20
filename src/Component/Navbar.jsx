@@ -49,7 +49,7 @@ const NavBar = () => {
       className={`flex justify-between items-center h-20 px-4 bg-black text-white fixed w-full top-0 transition-transform ${visible ? 'translate-y-0' : '-translate-y-full'
         }`}>
       <div>
-        <h1 className="text-5xl font-signature ml-2">Heli</h1>
+        <h1 className="text-5xl font-signature ml-2">Er. Heli</h1>
       </div>
 
       <ul className="hidden md:flex">

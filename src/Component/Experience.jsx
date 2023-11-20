@@ -100,6 +100,12 @@ const Experience = () => {
                     </p>
                     <p className="py-6">These are the technologies I've worked with</p>
                 </div>
+                <div className="text-xl ">
+                    <li>Proficient in crafting dynamic and responsive user interfaces using HTML, CSS, and JavaScript.</li>
+                    <li>Extensive experience with React and Angular, developing modular components for seamless user experiences.</li>
+                    <li>Skilled in full-stack development, utilizing Node.js and integrating databases like and MySQL.</li>
+                    <li>Adept at Git and GitHub for version control, ensuring efficient collaboration and code management.</li>
+                </div>
 
                 <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8  px-12 sm:px-0">
                     {techs.map(({ id, src, title, style }) => (
