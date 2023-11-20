@@ -69,7 +69,7 @@ const Portfolio = () => {
                   Demo
                 </button> */}
                 <button className="px-6 py-3 w-full m-4 duration-200 hover:scale-105">
-                  <a href={href} target="_blank">
+                  <a href={href} target="_blank" rel="noopener noreferrer">
                     {name}
                   </a>
                 </button>
